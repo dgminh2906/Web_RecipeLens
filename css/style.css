@@ -1,7 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #4294E3;
-    --secondary: #8F12FD;
+    /* --primary: #4294E3; */
+    /* --secondary: #8F12FD; */
+    --primary: #000000;
+    --secondary: #000000;
     --light: #F0F6FF;
     --dark: #262B47;
 }
